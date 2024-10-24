@@ -1,0 +1,47 @@
+----------------------------------------------------------------------------------------
+		Parking Management System
+----------------------------------------------------------------------------------------
+1.Vehicle Entry
+2.Remove Entry
+3.View Parked Vehicle 
+4.View Left Parking Space 
+5.Amount Details 
+6.Bill
+7.Close Programme 
+
++---------------------------------------------+
+
+	Select option:1
+	Enter vehicle number (XXXX-XX-XXXX) - Rj21 cb 2020
+	Enter vehicle type(Bicycle=A/Bike=B/Car=C):b
+	Enter vehicle name - Bike
+	Enter owner name - Laxman
+	Enter Date (DD-MM-YYYY) - 20-20-2000
+	Enter Time (HH:MM:SS) - 11:12:44
+
+............................................................Record detail saved..................................................................
+----------------------------------------------------------------------------------------
+		Parking Management System
+----------------------------------------------------------------------------------------
+1.Vehicle Entry
+2.Remove Entry
+3.View Parked Vehicle 
+4.View Left Parking Space 
+5.Amount Details 
+6.Bill
+7.Close Programme 
+
++---------------------------------------------+
+	Select option:6
+.............................................................. Generating Bill ..........................................................................
+Enter vehicle number to Delete(XXXX-XX-XXXX) - Rj21 cb 2020
+Vehicle Check in time -  11:12:44
+Vehicle Check in Date -  20-20-2000
+Vehicle Type -  Bike
+Enter No. of Hours Vehicle Parked - 9
+Parking Charge -  360
+Add. charge 18 % -  64.8
+Total Charge -  424
+
+..............................................................Thank you for using our service...........................................................................
+
